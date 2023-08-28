@@ -33,7 +33,9 @@ function App() {
     <>
     <Header />
     <MainImage />
-    <p>Pick the face you find scary</p>
+    <p>Pick the face you find the most scary. <br /> the creepiest vibes, or makes you feel disgusted and repulsed</p>
+
+
     <div className="choice-grid">
         <button onClick={()=> handleClick(1)} >1</button>
         <button onClick={()=> handleClick(2)}>2</button>
@@ -43,15 +45,6 @@ function App() {
         <button onClick={()=> handleClick(6)}>6</button>
         <button onClick={()=> handleClick(7)}>7</button>
         <button onClick={()=> handleClick(8)}>8</button>
-{/* 
-      <Button num="1" onClick={() => console.log('nigga')}/>
-      <Button num="2"/>
-      <Button num="3"/>
-      <Button num="4"/>
-      <Button num="5"/>
-      <Button num="6"/>
-      <Button num="7"/>
-      <Button num="8"/> */}
     </div>
     <Result pickedNum={picked}/>
     </>
