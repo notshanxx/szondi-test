@@ -1,7 +1,7 @@
  
 export const data = {
   1: {
-    title: "The Sadist",
+    title: "The Sadist:",
     info: `You were most likely dominated by a lot of authoritarian figures, such as parents or teachers. So you repress the feeling to dominate others, as you've been through your formative years.
 
     You are passive and rather friendly and love to make people happy.
@@ -14,7 +14,7 @@ export const data = {
     sublimation: "Creates barriers when they don't want to do something. ( Such as getting to work late) When acting defensively, acts passive-aggressively.",
   },
   2: {
-    title: "(2) The Epileptic:",
+    title: "The Epileptic:",
     info: `You react to motions rather intensely, good or bad. Since you were taught as a child that doing certain things aren't okay, you refuse to let negative emotions such as anger, impulsiveness or irritability manifest.
 
     As such, you probably wear a strong emotional mask and are good at hiding the negative feelings from others whenever they bubble up under the surface.
@@ -26,7 +26,7 @@ export const data = {
     sublimation: "Rare outbursts when stressed or provoked.",
   },
   3: {
-    title: "(3) The Catatonic:",
+    title: "The Catatonic:",
     info: "You're most likely an intelligent person with an overactive mind. Not so bad, right? Well, here's the trade-off. In the attempt to stay in reality and fight your overactive brain, you've most likely become dutiful, inhibited and rule-driven. You are unaware of the physical and emotional needs of yourself and others. and often feel disconnected and lost.",
     repression: "Mental hyperactivity/ overactive imagination",
     denies: `Adopting "stereotypical" behaviors.`,
@@ -34,7 +34,7 @@ export const data = {
   },
 
   4: {
-    title: "(4) The Schizophrenic:",
+    title: "The Schizophrenic:",
     info: `If you've chosen this woman, then you're most likely repressing apathy for others. Probably struggle in connecting with others. And relating to others is a challenge for you. Maybe even relating to yourself. Your relationships probably lack depth. To compensate, you're sociable. Love to spend time with friends and family. In a sense, this is a way to mask your sense of loneliness and isolation.`,
     repression: "Feelings of apathy towards others.",
     denies: "Being a very sociable person, with a large circle of friends.",
@@ -42,7 +42,7 @@ export const data = {
   },
 
   5: {
-    title: "(5) The Hysteric:",
+    title: "The Hysteric:",
     info: "You're probably repressing attention-seeking tendencies. You were told as a child to not show off, by adults or peers. As such, you're probably a modest and sincere person. Deep down you love to be the center of attention and charming others. Though you're rarely the center of attention, when you are, you're ecstatic You're likely someone who pays attention to detail. As evidence of the amount of effort, you put into your appearance. This could be your subconscious self showing off, as your conscious self continues to act modestly.",
     repression: "Desire for attention and admiration.",
     denies: "Acting modestly / staying out of the spotlight.",
@@ -50,15 +50,17 @@ export const data = {
   },
 
   6: {
-    title: "(6) The Depressive:",
-    info: "On the surface, you're happy and bubbly. Like you don't have a care in the world. Well, that's the side you show to the world, at least. Deep within, you're most likely dealing with feelings of self-worthlessness, even self-loathing and guilt. You probably take your mind off this by focusing on work and other people. Low self-esteem is also associated with this choice.",
+    title: "The Depressive:",
+    info: `On the surface, you're happy and bubbly. Like you don't have a care in the world. Well, that's the side you show to the world, at least. Deep within, you're most likely dealing with feelings of self-worthlessness, even self-loathing and guilt. You probably take your mind off this by focusing on work and other people. Low self-esteem is also associated with this choice. 
+
+    Picking this picture doesn't mean you're a depressed person, but that you have a predisposition to negative emotions.`,
     repression: "Feelings of worthlessness/inadequacy",
     denies: "Developing a happy and bubbly exterior personality. Focusing on work and friends.",
     sublimation: "Sacrifices individuality and real interests to conform to expected male/female stereotype.",
   },
 
   7: {
-    title: "(7) The Maniac:",
+    title: "The Maniac:",
     info: `You're most likely logical, mature and balanced. You don't favor chaos or excessive displays of emotions. You're likely annoyed when people are loud, or when they hold too strong of belief. Because inside. You're repressing hyperactive tendencies that would make you lose control. Deep within, you're probably quite impulsive and with extreme energy hurdles. This is probably because your parents or teachers tried to make you "calm down" as a child.`,
     repression: "Impulsiveness and high energy levels.",
     denies: "Being logical, reasonable and collected, and developing a hatred of excesses.",
@@ -66,7 +68,7 @@ export const data = {
   },
 
   8: {
-    title: "(8) Dissociate Identity Disorder:",
+    title: "Dissociate Identity Disorder:",
     info: "As a child, you've probably been bullied, defamed, or traumatized by a parent, teacher or other family member. This trauma has made you subconsciously make you question yourself as a sexual partner. Now, you probably push your own gender role. Such as being macho, as a man. Or pushing your femininity as a woman. You probably put down others of your own sex for not acting manly or womanly enough.",
     repression: "Thoughts of being an undesirable partner.",
     denies: "Emphasizing gender role, acting very macho or feminine.",
